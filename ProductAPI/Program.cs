@@ -10,12 +10,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 // Database - MySQL
-var connectionString = "Server=127.0.0.1;Database=ProductDb;Uid=root;Pwd=123456;Port=3306;";
-
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseMySql(
-        connectionString,
-        new MySqlServerVersion(new Version(8, 0, 33)) // ajusta se teu MySQL for outra versão
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        new MySqlServerVersion(new Version(8, 0, 33)) // Ajuste para sua versão do MySQL
     )
 );
 // Repositories
