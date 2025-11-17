@@ -1,0 +1,11 @@
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\bin\Debug\net9.0\ProductDomain.deps.json
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\bin\Debug\net9.0\ProductDomain.dll
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\bin\Debug\net9.0\ProductDomain.pdb
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ProductDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ProductDomain.AssemblyInfoInputs.cache
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ProductDomain.AssemblyInfo.cs
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ProductDomain.csproj.CoreCompileInputs.cache
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ProductDomain.dll
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\refint\ProductDomain.dll
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ProductDomain.pdb
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ref\ProductDomain.dll

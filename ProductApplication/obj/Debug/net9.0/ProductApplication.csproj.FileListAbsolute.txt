@@ -1,0 +1,15 @@
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductApplication.csproj.AssemblyReference.cache
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductApplication.AssemblyInfoInputs.cache
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductApplication.AssemblyInfo.cs
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductApplication.csproj.CoreCompileInputs.cache
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\bin\Debug\net9.0\ProductApplication.deps.json
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\bin\Debug\net9.0\ProductApplication.dll
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\bin\Debug\net9.0\ProductApplication.pdb
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\bin\Debug\net9.0\ProductDomain.dll
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\bin\Debug\net9.0\ProductDomain.pdb
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductA.A8227FD1.Up2Date
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductApplication.dll
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\refint\ProductApplication.dll
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductApplication.pdb
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ref\ProductApplication.dll
