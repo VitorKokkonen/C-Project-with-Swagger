@@ -33,9 +33,10 @@ public class ProductRepository : IProductRepository
         return product;
     }
     // Atualizar existente.
-    public async Task UpdateAsync(Product product)
+    public Task UpdateAsync(Product product)
     {
         _context.Products.Update(product);
+        return Task.CompletedTask;
     }
     // Remover.
     public async Task DeleteAsync(int id)

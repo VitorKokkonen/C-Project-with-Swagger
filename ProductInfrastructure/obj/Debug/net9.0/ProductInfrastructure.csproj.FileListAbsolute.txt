@@ -17,3 +17,4 @@ C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductInfrastructure\o
 C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductInfrastructure\obj\Debug\net9.0\ref\ProductInfrastructure.dll
 C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductInfrastructure\bin\Debug\net9.0\ProductInfrastructure.runtimeconfig.json
 C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductInfrastructure\obj\Debug\net9.0\ProductInfrastructure.genruntimeconfig.cache
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductInfrastructure\obj\Debug\net9.0\ProductInfrastructure.sourcelink.json

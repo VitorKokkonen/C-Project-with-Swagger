@@ -9,3 +9,4 @@ C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug
 C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\refint\ProductDomain.dll
 C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ProductDomain.pdb
 C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ref\ProductDomain.dll
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductDomain\obj\Debug\net9.0\ProductDomain.sourcelink.json

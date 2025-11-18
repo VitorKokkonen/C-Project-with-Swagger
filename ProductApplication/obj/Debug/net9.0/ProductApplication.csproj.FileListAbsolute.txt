@@ -13,3 +13,4 @@ C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\
 C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\refint\ProductApplication.dll
 C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductApplication.pdb
 C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ref\ProductApplication.dll
+C:\Users\vitor.santos\Desktop\Sys\testC\ProductCleanArch\ProductApplication\obj\Debug\net9.0\ProductApplication.sourcelink.json
